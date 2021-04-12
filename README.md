@@ -6,7 +6,7 @@ Anaconda3, Python 3.7.9
 
 ## Resources
    -  Data Source: schools_complete.csv
-                   students_complete.csv
+                   & students_complete.csv
 
    -  Software: Jupyter Notebook, Anaconda3, Python 3.7.6 
 
