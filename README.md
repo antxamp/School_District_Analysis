@@ -20,8 +20,10 @@ What the results show:
         - Removing the ninth graders' math and reading scores ending up showing a high percentage overall but that could be misleading due to the removal.  
    -  How does replacing the ninth-grade scores affect the following:
         -   Math and reading scores by grade: % Passing Overall went from 65.07% to a much higher 90% by taking out the altered grades. 
-        
-
+        -   With the images below list the changes that took affect for Thomas High School. From before to after.
+ 
+![Image before](https://github.com/antxamp/School_District_Analysis/blob/main/Images/THS_summary_dataframe%20(1).png)
+![Image after](https://github.com/antxamp/School_District_Analysis/blob/main/Images/THS_updated_summary_dataframe.png)
 
   
 ## Summary
