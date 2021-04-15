@@ -75,4 +75,4 @@ Scores of Thomas High School are reduced see images...
 
   
 ## Summary
-   -  To summarize by removing the altered ninth graders' inaccurate numbers from Thomas High School we were able to attain a more accurate number which did in fact help the school with budgeting in the future. 
+   -  To summarize, by removing the altered ninth graders' inaccurate grades to NaN from Thomas High School we were able to attain a more accurate number which in fact can help the school with budgeting in the future. Comparable to other schools the numbers looked similar than being an outlier which paints a better image of percentages.
