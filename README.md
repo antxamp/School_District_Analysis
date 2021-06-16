@@ -48,4 +48,5 @@ Anaconda3, Python 3.7.9
         - The district summary obviously showed an increase in overall passing within the district due to the adjustments made from Deliverable 1.
 ![Image after](https://github.com/antxamp/School_District_Analysis/blob/main/Images/district_summary.PNG)
    
-   -  To summarize, by removing the altered ninth graders' inaccurate grades to NaN from Thomas High School we were able to attain a more accurate number which in fact can help the school with budgeting in the future. Comparable to other schools the numbers looked similar than being an outlier which paints a better image of percentages and can help better budget for the schools that need funding.
+   -  To summarize, by removing the altered ninth graders' inaccurate grades to NaN from Thomas High School we were able to attain a more accurate number which in fact can help the school with budgeting in the future. With the changes made you can see how the overall scores were elevated and essentially put Thomas High School in the Top list.
+![Image after](https://github.com/antxamp/School_District_Analysis/blob/main/Images/top_school.PNG)
