@@ -13,18 +13,66 @@ Anaconda3, Python 3.7.9
 ## Results
 What the results show:
    -  How is the district summary affected? 
-        - The district summary wasn't affected by much due to the small amount that was NaN from 9th graders of Thomas High School.
+        - The district summary wasn't affected by much due to the small amount that was NaN from 9th graders of Thomas High School. There were slight changes in % Overall passing. From 64.9% up to 65%.
+ 
    -  How is the school summary affected?
-        - The school summary did change due to removing the data.
+        - The school summary did change due to removing the data. (via the image below)
+  ![image before](https://github.com/antxamp/School_District_Analysis/blob/main/Images/old_schoolsummary.png) 
+  
+  ![image after](https://github.com/antxamp/School_District_Analysis/blob/main/Images/new_schoolsummary.png)
+     
    -  How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? 
         - Removing the ninth graders' math and reading scores ending up showing a high percentage overall but that could be misleading due to the removal.  
-   -  How does replacing the ninth-grade scores affect the following:
-        -   Math and reading scores by grade: % Passing Overall went from 65.07% to a much higher 90% by taking out the altered grades. 
-        -   With the images below list the changes that took affect for Thomas High School. From before to after.
- 
+
 ![Image before](https://github.com/antxamp/School_District_Analysis/blob/main/Images/THS_summary_dataframe%20(1).png)
 ![Image after](https://github.com/antxamp/School_District_Analysis/blob/main/Images/THS_updated_summary_dataframe.png)
+       
+   -  How does replacing the ninth-grade scores affect the following:
+
+###### Math and reading scores by grade
+
+###### Old Math results
+![before](https://github.com/antxamp/School_District_Analysis/blob/main/Images/math_by_grade_old.png)
+
+###### New Math results
+![after](https://github.com/antxamp/School_District_Analysis/blob/main/Images/math_by_grade_new.png)
+
+
+###### Old Reading results
+![before](https://github.com/antxamp/School_District_Analysis/blob/main/Images/Reading_bygrade_old.png)
+
+###### New Reading results
+![after](https://github.com/antxamp/School_District_Analysis/blob/main/Images/Reading_bygrade_new.png)
+
+
+###### Scores by school spending...
+Scores of Thomas High School are reduced see images...
+
+###### Old spending results
+![before](https://github.com/antxamp/School_District_Analysis/blob/main/Images/schoolsummaryold.png)
+
+###### New spending results
+![after](https://github.com/antxamp/School_District_Analysis/blob/main/Images/spending_new.png)
+
+
+###### Scores by school type...
+
+###### Old results by school type
+![before](https://github.com/antxamp/School_District_Analysis/blob/main/Images/schooltypeold.png)
+
+###### New results by school type
+![after](https://github.com/antxamp/School_District_Analysis/blob/main/Images/school_type_new.png)
+
+
+###### Scores by school size...
+
+###### Old results by school type
+![before](https://github.com/antxamp/School_District_Analysis/blob/main/Images/size_old.png)
+
+###### New results by school type
+![after](https://github.com/antxamp/School_District_Analysis/blob/main/Images/size_new.png)
+ 
 
   
 ## Summary
-   -  To summarize by removing the altered ninth graders' inaccurate numbers we were able to attain a more accurate number which did in fact help the school with budgeting in the future. 
+   -  To summarize, by removing the altered ninth graders' inaccurate grades to NaN from Thomas High School we were able to attain a more accurate number which in fact can help the school with budgeting in the future. Comparable to other schools the numbers looked similar than being an outlier which paints a better image of percentages.
